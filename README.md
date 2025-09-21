@@ -166,54 +166,6 @@ POST /api/optimize
   "platform": "instagram"
 }
 ```
-
-## 🎬 Demo Video Script
-
-### Scene 1: Introduction (0-15s)
-- **Visual**: Linkora logo animation
-- **Voiceover**: "Meet Linkora - the AI that transforms your social media presence"
-- **Action**: Show loading screen with smooth animations
-
-### Scene 2: Landing Page (15-30s)
-- **Visual**: Hero section with floating elements
-- **Voiceover**: "Boost engagement by 300% with our advanced AI algorithms"
-- **Action**: Scroll through features, show responsive design
-
-### Scene 3: Login Flow (30-40s)
-- **Visual**: Login page with glass morphism
-- **Voiceover**: "Get started in seconds"
-- **Action**: Quick login demonstration
-
-### Scene 4: Caption Optimizer (40-90s)
-- **Visual**: Dashboard with input panel
-- **Voiceover**: "Simply paste your caption, select your platform..."
-- **Action**: 
-  - Type: "Just posted a new photo"
-  - Select Instagram
-  - Click optimize
-  - Show loading animation
-  - Reveal optimized result: "✨ Just dropped something amazing! What do you think? 💭"
-
-### Scene 5: Results Showcase (90-120s)
-- **Visual**: Results panel with animations
-- **Voiceover**: "Get optimized captions, trending hashtags, and perfect timing"
-- **Action**: Show engagement score, hashtags, timing recommendations
-
-### Scene 6: Analytics Dashboard (120-140s)
-- **Visual**: Analytics section with animated charts
-- **Voiceover**: "Track your performance with real-time analytics"
-- **Action**: Show metrics, charts, growth indicators
-
-### Scene 7: Mobile Experience (140-160s)
-- **Visual**: Mobile responsive design
-- **Voiceover**: "Perfect experience on any device"
-- **Action**: Show mobile interface, touch interactions
-
-### Scene 8: Call to Action (160-180s)
-- **Visual**: Final logo and URL
-- **Voiceover**: "Start optimizing your content today with Linkora"
-- **Action**: Show website URL, fade to logo
-
 ## 🔒 Security & Privacy
 
 - **Data Encryption** - All data encrypted in transit and at rest
@@ -240,9 +192,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Next.js Team** - Amazing React framework
 - **Design Inspiration** - Modern SaaS applications
 
-## 📞 Support
+## 📞 Support (For content purposes, not real emails and links)
 
-- **Email**: support@linkora.ai
+- **Email**: support@linkora.ai 
 - **Documentation**: [docs.linkora.ai](https://docs.linkora.ai)
 - **GitHub Issues**: [Report bugs](https://github.com/YOUR_USERNAME/linkora-frontend/issues)
 
